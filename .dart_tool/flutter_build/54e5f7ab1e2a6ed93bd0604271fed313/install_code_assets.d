@@ -1,1 +1,0 @@
- /Users/darjakolnenkova/StudioProjects/firestore_support/.dart_tool/flutter_build/54e5f7ab1e2a6ed93bd0604271fed313/native_assets.json: 
